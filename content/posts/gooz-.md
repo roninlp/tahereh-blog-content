@@ -1,6 +1,6 @@
 ---
 title: "gooz "
-heroImage: "hero-1.jpg"
+heroImage: "/hero-1.jpg"
 ---
 
 در این مطلب درباره گوز می‌گوییم

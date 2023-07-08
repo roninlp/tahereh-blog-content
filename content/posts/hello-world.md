@@ -1,6 +1,6 @@
 ---
 title: "Hello, fucker!"
-heroImage: "hero-2.jpg"
+heroImage: "/hero-2.jpg"
 ---
 
 ## God I'm good
