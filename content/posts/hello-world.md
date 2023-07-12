@@ -1,6 +1,12 @@
 ---
-title: "Hello, fucker!"
-heroImage: "/hero-2.jpg"
+title: 'Hello, fucker!'
+heroImage: 'https://res.cloudinary.com/deobdpjly/image/upload/v1689103902/sample.jpg'
+tags:
+  - tag: content/tags/Writing.md
+  - tag: content/tags/Self-Growth.md
+  - tag: content/tags/Bullet-Journal.md
+categories:
+  - tag: content/tags/Writing.md
 ---
 
 ## God I'm good
