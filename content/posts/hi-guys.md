@@ -1,9 +1,11 @@
 ---
 title: سلام بر شما
-heroImage: "https://res.cloudinary.com/deobdpjly/image/upload/v1689103941/cld-sample-5.jpg"
+heroImage: 'https://res.cloudinary.com/deobdpjly/image/upload/v1689103941/cld-sample-5.jpg'
 tags:
   - tag: content/tags/Self-Growth.md
   - tag: content/tags/Writing.md
+categories:
+  - tag: content/tags/Self-Growth.md
 ---
 
 ### درست شد!!!!🙌
