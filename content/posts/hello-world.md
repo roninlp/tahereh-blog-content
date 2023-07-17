@@ -1,6 +1,6 @@
 ---
-title: 'Hello, fucker!'
-heroImage: 'https://res.cloudinary.com/deobdpjly/image/upload/v1689103902/sample.jpg'
+title: 'Hello, dear!'
+heroImage: 'https://res.cloudinary.com/deobdpjly/image/upload/v1689103940/cld-sample-3.jpg'
 tags:
   - tag: content/tags/Writing.md
   - tag: content/tags/Self-Growth.md
